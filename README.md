@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramlalac8
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & DSA
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me by YouTube platform
 
